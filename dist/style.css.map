@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack:///./src/styles/styles.less"],"names":[],"mappings":"AAAA;AACA;AACA;AACA;AACA","file":"style.css","sourcesContent":[":root {\n  color: #1a1bff;\n  font-size: 2em;\n  text-align: center;\n}\n"],"sourceRoot":""}
